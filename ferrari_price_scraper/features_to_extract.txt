@@ -1,0 +1,47 @@
+Feature                                  | Values
+----------------------------------------|--------------------------------------------------------------
+Seat Style                              | Standard / Daytona / Racing (carbon)
+Seat Adjustment                         | Manual / Electric
+Headrest Cavallino Logo                 | Yes / No
+Seat Contrast Stitching                 | Yes / No
+Seat Piping                             | Yes / No
+
+Body Colour                             | Rosso Corsa / Giallo Modena / Nero / Grigio Titanio / Argento Nurburgring / Blu Pozzi / Blu Tour de France / Azzurro California / Verde Zeltweg / Custom
+Paint Finish                            | Solid / Metallic / Special (Scaglietti)
+
+Front Grille                            | Standard / Mesh
+Rear Grille                             | Standard / Challenge (Mesh)
+Scuderia Shields                        | Yes / No
+Side Skirts Finish                      | Body Colour / Black
+
+Wheel Type                              | Standard 5-Spoke / Modular Split-Rim
+Brake Caliper Colour                    | Black / Red / Yellow / Silver / Gold
+
+Dashboard & Console Trim                | Aluminum / Carbon Fibre
+Carpet Colour                           | Nero / Rosso / Blu / Bordeaux / Tan / Other
+
+Leather Rear Shelf (Coupe only)         | Yes / No
+Leather Roll Bar Hoops (Spider only)    | Yes / No
+Leather Luggage Straps (Coupe only)     | Yes / No
+Fire Extinguisher                       | Yes / No
+Hi-Fi Stereo                            | Yes / No
+6-CD Changer                            | Yes / No
+Subwoofer                               | Yes / No
+Satellite Navigation (Becker)           | Yes / No
+Dedication Plate                        | Yes / No
+Leather Door Sills                      | Yes / No
+Leather Headliner                       | Yes / No
+Coloured Upper Dashboard                | Yes / No
+Coloured Steering Wheel                 | Yes / No
+Special Stitching Colour                | Yes / No
+
+Transmission                            | Manual / F1
+Suspension Package                      | Standard / Fiorano
+Exhaust System                          | Standard / Sport / Racing (from 2000 onward)
+
+Spider Soft Top Colour (Spider only)    | Black / Blu / Bordeaux / Beige
+Tonneau Cover Finish (Spider only)      | Body Colour / Custom Painted
+
+Luggage Set                             | None / Modena Leather (3 pc) / Matching Interior Leather (3 pc)
+Spare Wheel Kit                         | Yes / No
+Battery Charger Pre-Wiring Kit          | Yes / No
